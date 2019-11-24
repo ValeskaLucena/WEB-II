@@ -1,15 +1,23 @@
-# WEB-II
-CODIGO TESTE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <html>
-
 <head>
-
 </head>
  <body>
-     
-    <a id="foto"></a><img src="https://st2.depositphotos.com/3482063/10518/v/950/depositphotos_105183202-stock-illustration-hand-drawn-cosmetic-icon-cosmetic.jpg" height="255"></a>
-    
-    
+       <a id="foto"></a><img src="https://st2.depositphotos.com/3482063/10518/v/950/depositphotos_105183202-stock-illustration-hand-drawn-cosmetic-icon-cosmetic.jpg" height="255"></a>
+  
     <h1>TABELA COBRANÇA</h1>
     <P>MELHORES PREÇOS VOCÊ ENCONTRA AQUI!</P>
 
